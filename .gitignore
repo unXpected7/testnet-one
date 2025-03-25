@@ -1,0 +1,30 @@
+# Node.js dependencies
+node_modules/
+dist/
+
+# TypeScript build outputs
+*.tsbuildinfo
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Hardhat files
+cache/
+artifacts/
+
+# Ignore coverage reports
+coverage/
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
